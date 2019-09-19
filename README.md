@@ -6,5 +6,5 @@ All Rights Reserved.<br>
 
 The rest of the code is GPL v3.0.<br>
 
-Screenshot:
-![screenshot1](/images/screenshot1.png)<br><br>
+Screenshot:<br>
+![screenshot1](/images/screenshot1.png)
