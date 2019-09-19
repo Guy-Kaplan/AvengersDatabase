@@ -1,0 +1,9 @@
+C:\Users\Guy\Desktop\AvengersProgram\AvengersForm\bin\Debug\AvengersForm.exe.config
+C:\Users\Guy\Desktop\AvengersProgram\AvengersForm\bin\Debug\AvengersForm.exe
+C:\Users\Guy\Desktop\AvengersProgram\AvengersForm\bin\Debug\AvengersForm.pdb
+C:\Users\Guy\Desktop\AvengersProgram\AvengersForm\obj\Debug\AvengersForm.Form1.resources
+C:\Users\Guy\Desktop\AvengersProgram\AvengersForm\obj\Debug\AvengersForm.Properties.Resources.resources
+C:\Users\Guy\Desktop\AvengersProgram\AvengersForm\obj\Debug\AvengersForm.csproj.GenerateResource.cache
+C:\Users\Guy\Desktop\AvengersProgram\AvengersForm\obj\Debug\AvengersForm.csproj.CoreCompileInputs.cache
+C:\Users\Guy\Desktop\AvengersProgram\AvengersForm\obj\Debug\AvengersForm.exe
+C:\Users\Guy\Desktop\AvengersProgram\AvengersForm\obj\Debug\AvengersForm.pdb
