@@ -44,7 +44,12 @@ namespace AvengersForm
             CharactersComboBox.Text = GetRndCharacterName();
             DisplayFullName();
         }
-
+        
+        /// <summary>
+        /// Displays in a popup window all characters and their real names
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void ShowAllButton_Click(object sender, EventArgs e)
         {
             var sb = new StringBuilder();
