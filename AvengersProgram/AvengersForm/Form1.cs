@@ -108,7 +108,7 @@ namespace AvengersForm
         /// Gets the rael name of the given character
         /// </summary>
         /// <param name="nickname">The given character</param>
-        /// <returns>The the rael name of the given character</returns>
+        /// <returns>The rael name of the given character</returns>
         private string GetRealNameOfGivenCharacter(string nickname)
         {
             switch (nickname)
